@@ -1,4 +1,3 @@
 package Inventario1
 
-class Item {
-}
+data class Item(val name: String, val weight: Int)
