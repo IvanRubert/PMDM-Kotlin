@@ -1,3 +1,5 @@
+package KotlinBasico
+
 const val ROCKS = 3
 
 /*
