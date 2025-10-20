@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d4dc0d5-6e70-47fc-816c-0d05486619c2" name="Changes" comment="Add Inventario2">
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Arrow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Bolt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Bow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Crossbow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Greatsword.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/IPickable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/IUsable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Sword.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventario3/Weapon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/BasicBow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/BasicSword.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Epic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/IPickable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/IWeapon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Mithril.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Player.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Rare.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventario4/Steel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasico/META-INF/KotlinBasico.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasico/META-INF/KotlinBasico.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inventario2/IPickable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inventario2/IPickable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inventario3/Bow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inventario3/Bow.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inventario3/Crossbow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inventario3/Crossbow.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +29,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="kotlin.jupyter.empty" />
-        <option value="Kotlin File" />
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -70,14 +70,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.L3P4Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Debug",
+    "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/ivan/Documentos/Programacion multimedia/KotlinBasico/src/Inventario3",
+    "last_opened_file_path": "/home/ivan/Documentos/Programacion multimedia/KotlinBasico/src/Inventario4",
     "onboarding.tips.debug.path": "/home/ivan/Documentos/Programacion multimedia/KotlinBasico/src/Main.kt",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -92,11 +92,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Inventario4" />
       <recent name="$PROJECT_DIR$/src/Inventario3" />
       <recent name="$PROJECT_DIR$/src/Inventario2" />
       <recent name="$PROJECT_DIR$/Inventario1" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="Inventario4" />
       <recent name="Inventario3" />
       <recent name="Inventario2" />
     </key>
